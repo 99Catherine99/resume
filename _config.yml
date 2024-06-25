@@ -6,11 +6,11 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
+name: Shiqi Fang
+title: PhD Student
+email: s2285280@ed.ac.uk
 # email_title: Email (Email title override)
-phone: Your phone number (optional)
+phone: +44 7901501811 (optional)
 # phone_title: Phone (Phone title override)
 website: Your website (eg. https://google.com)(optional)
 # website_title: Web (Website title override)
