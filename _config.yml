@@ -53,8 +53,6 @@ additional_links:
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
 
-I am a third-year PhD candidate at the University of Edinburgh, specializing in <mark>Operational Research<mark>. My research primarily focuses on <mark>Algorithmic Fairness<mark> and <mark>Credit Scoring<mark>, with a keen interest in <mark>Algorithmic Explainability<mark> and <mark>Causality<mark>. Throughout my academic tenure, I have engaged in a diverse array of research projects and advanced training courses. Notably, I have contributed to the development of dynamic tourism tax models and conducted in-depth analyses of urban financial economies, among other significant endeavors.
-
 If you are interested, please feel free to contact me.
 
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
