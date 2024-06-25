@@ -8,11 +8,11 @@ version: 2
 # Personal info
 name: Shiqi Fang
 title: PhD Student
-email: s2285280@ed.ac.uk
+# email: fangshiqi99@163.com
 # email_title: Email (Email title override)
-phone: +44 7901501811
+# phone: +44 7901501811
 # phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
+website: https://www.researchgate.net/profile/Shiqi-Fang-5
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
@@ -55,11 +55,11 @@ about_content: | # this will include new lines to allow paragraphs
   I am a third-year PhD candidate at the University of Edinburgh, specializing in Operational Research. My research primarily focuses on Algorithmic Fairness and Credit Scoring, with a keen interest in Algorithmic Explainability and Causality. Throughout my academic tenure, I have engaged in a diverse array of research projects and advanced training courses. Notably, I have contributed to the development of dynamic tourism tax models and conducted in-depth analyses of urban financial economies, among other significant endeavors.
   If you are interested, please feel free to contact me.
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  # You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+  #   - Lists
+  #   - Tables
+  #   - <a href="google.com">Links</a>
+  #   - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
   - title: Projects # Title for the section
