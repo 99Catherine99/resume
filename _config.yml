@@ -10,7 +10,7 @@ name: Shiqi Fang
 title: PhD Student
 email: s2285280@ed.ac.uk
 # email_title: Email (Email title override)
-phone: +44 7901501811 (optional)
+phone: +44 7901501811
 # phone_title: Phone (Phone title override)
 website: Your website (eg. https://google.com)(optional)
 # website_title: Web (Website title override)
@@ -20,13 +20,13 @@ darkmode: false
 
 # Social links
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  99Catherine99
 stackoverflow_username: "00000001"
 dribbble_username: jekyll
 facebook_username: jekyll
 flickr_username: jekyll
 instagram_username: jekyll
-linkedin_username: jekyll
+linkedin_username: Shiqi(Catherine) Fang
 xing_username: jekyll
 pinterest_username: jekyll
 youtube_username: jekyll
@@ -52,7 +52,10 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+
+I am a third-year PhD candidate at the University of Edinburgh, specializing in <mark>Operational Research<mark>. My research primarily focuses on <mark>Algorithmic Fairness<mark> and <mark>Credit Scoring<mark>, with a keen interest in <mark>Algorithmic Explainability<mark> and <mark>Causality<mark>. Throughout my academic tenure, I have engaged in a diverse array of research projects and advanced training courses. Notably, I have contributed to the development of dynamic tourism tax models and conducted in-depth analyses of urban financial economies, among other significant endeavors.
+
+If you are intrested, please feel free to contact me.
 
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
     - Lists
