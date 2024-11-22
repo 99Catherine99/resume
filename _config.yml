@@ -78,7 +78,19 @@ content:
         quote: >
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          Developed a dynamic tourism tax model for Edinburgh, recognizing the delicate balance between taxation and tourism revenue. The model addresses the challenge where excessively high taxes could deter visitors, leading to a decline in overall tourism revenue, while overly low taxes fail to generate sufficient government income. By implementing adaptable tax rates based on seasonal demand, event-specific surcharges, and a tiered structure for accommodation types and stay durations, the framework aims to optimize revenue without compromising visitor numbers. This approach ensures a sustainable balance, maximizing both government income and the economic benefits of tourism.
+
+	  - **Seasonal Variations:**  
+         Integrated the cyclical nature of tourism by incorporating seasonal patterns into the analysis to better reflect fluctuations in demand.  
+
+- **Pandemic Impact:**  
+  Utilized dummy variables to account for the effects of the pandemic, ensuring the model captures shifts in tourism trends caused by external shocks.  
+
+- **Accommodation Types:**  
+  Developed separate models to analyze the outcomes for three distinct accommodation categories, including budget accommodations, allowing for tailored insights and recommendations.  
+
+- **Economic Time Series Models:**  
+  Based the analysis on established time series models in economics, with a focus on ARMA, to provide robust and reliable results.  
   - title: Experience
     layout: list
     content:
