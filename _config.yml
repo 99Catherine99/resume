@@ -52,9 +52,11 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  I am a third-year PhD candidate at the University of Edinburgh, specializing in [Operational Research]. My research primarily focuses on [Algorithmic Fairness] and [Credit Scoring], with a keen interest in [Algorithmic Explainability] and [Causality]. Throughout my academic tenure, I have engaged in a diverse array of research projects and advanced training courses. Notably, I have contributed to the development of dynamic tourism tax models and conducted in-depth analyses of urban financial economies, among other significant endeavors.
-  
-  If you are interested, please feel free to contact me.
+I am a third-year PhD student at the University of Edinburgh, specializing in **Operational Research and Causal Statistics**. My research focuses on **Algorithmic Fairness** and **Causality**, with applications in **Credit Scoring**, and I have a strong interest in **Algorithmic Explainability**. 
+
+Throughout my academic journey, I have contributed to a variety of research projects and completed advanced training courses. Notably, I have played a key role in developing dynamic tourism tax models and conducted comprehensive analyses of urban financial economies, among other impactful endeavors.
+
+If you would like to connect or learn more about my work, please feel free to reach out.
 
 content:
   - title: Projects # Title for the section
